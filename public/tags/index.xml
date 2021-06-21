@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Call me nik</title>
+    <link>https://diacqi.github.io/tags/</link>
+    <description>Recent content in Tags on Call me nik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://diacqi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>story</title>
+      <link>https://diacqi.github.io/tags/story/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://diacqi.github.io/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>an excerpt</title>
+      <link>https://diacqi.github.io/tags/an-excerpt/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://diacqi.github.io/tags/an-excerpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poem</title>
+      <link>https://diacqi.github.io/tags/poem/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://diacqi.github.io/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
